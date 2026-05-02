@@ -42,4 +42,4 @@ THRU_MAX_RETRIES=30 THRU_INITIAL_BACKOFF=10 ./thru-deploy.sh thru_program2 ./bui
 - [Thru CLI](https://thru.org) installed (`cargo install thru`)
 
 ## Built by
-[@wxxnde](https://x.com/wxxnde) — building on Thru alphanet
+[@wandeknowsball](https://x.com/wandeknowsball) — building on Thru alphanet
