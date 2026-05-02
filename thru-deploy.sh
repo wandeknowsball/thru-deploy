@@ -31,8 +31,8 @@ log_dim()     { echo -e "${DIM}$*${RESET}"; }
 print_banner() {
   echo -e "${CYAN}"
   echo "  ┌─────────────────────────────────────────┐"
-  echo "  │         thru-deploy  •  by wxxnde        │"
-  echo "  │   Resilient deployment for Thru programs  │"
+  echo "  │ thru-deploy  •  by wandeknowsball       │"
+  echo "  │ Resilient deployment for Thru programs  │"
   echo "  └─────────────────────────────────────────┘"
   echo -e "${RESET}"
 }
